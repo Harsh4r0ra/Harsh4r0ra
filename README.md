@@ -1,38 +1,55 @@
-<h2 align="left">Hi 👋, I'm Harsh</h2>
-<h4 align="left">Full Stack Developer | Tech Enthusiast | 🇮🇳 Based in India</h4>
+<h1 align="center">Harsh Arora</h1>
+<h3 align="center">AI & Embedded Systems Engineer | Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh4r0ra&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-<div align="left">
-  <img align="right" height="120" width="120" src="https://i.imgflip.com/65efzo.gif" alt="coding meme gif" style="margin-left: 30px; margin-bottom: 20px;" />
-  
-  ### 🌟 About Me
-  - 🚀 Passionate about building full-stack apps and automating workflows  
-  - 🔍 Always exploring new technologies — from Web to AI  
-  - 📚 Lifelong learner and weekend hackathon warrior  
-  - 💻 Currently working with React, Node.js, Python, and C#  
-  - ✨ I believe in clean code, simple UI, and meaningful products  
-</div>
+### Professional Summary
 
-<br clear="both" />
+I am a pre-final year B.Tech Computer Science student at SRMIST with industry experience spanning embedded systems, IoT device communication, real-time AI, and full-stack backend development[cite: 1]. I specialize in delivering production-grade prototypes and have a proven track record of engineering scalable solutions at enterprise organizations like Reliance Industries and RNTBCI[cite: 1].
+
+*   **Current Focus:** Architecting real-time AI modules, multi-node RAG pipelines, and embedded HMI systems[cite: 1].
+*   **Industry Experience:** Engineered dynamic NL-to-SQL chatbots for enterprise analytics and deployed computer vision models for predictive maintenance, achieving 92% defect classification accuracy[cite: 1].
+*   **Core Interests:** Deeply motivated by advancements in Open RAN, 5G private networks, edge infrastructure, and intelligent network automation[cite: 1].
+*   **Technical Environment:** Highly proficient in Linux environments (Ubuntu, Arch, Manjaro) and formally certified in Google Cybersecurity and IBM Intro to AI[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack
+### Technical Expertise
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="C#" width="20" />
-</div>
+**Languages & Core:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+**AI, ML & Vision:** 
+TensorFlow, PyTorch, OpenCV, Real-time inference, RAG architecture[cite: 1]
+
+**Embedded & IoT:** 
+ESP8266/ESP32, MQTT protocols, Edge AI deployment[cite: 1]
+
+**Backend & Web:** 
+Next.js, PHP, RESTful APIs, Vector Databases, SQL Server[cite: 1]
 
 ---
 
-### 📊 GitHub Stats
+### Featured Experience & Projects
+
+*   **Enterprise Analytics Chatbot (Reliance Industries):** Built a multi-node RAG chatbot with dynamic NL-to-SQL query generation and vector database memory[cite: 1].
+*   **Predictive Maintenance AI (RNTBCI):** Developed TensorFlow computer vision pipelines for anomaly detection, achieving 92% defect classification accuracy[cite: 1].
+*   **Smart Classroom IoT System:** Designed an AI-powered zone-based lighting system using ESP8266, local IoT networks, and real-time OpenCV inference[cite: 1].
+*   **Blockchain Health Management:** Created decentralized smart contracts on Ethereum/Polygon using IPFS/Filecoin storage and AES-256 encryption[cite: 1].
+*   **Stock Portfolio Analytics:** Engineered a full-stack Next.js platform integrating Gemini AI sentiment signals and live Yahoo Finance feeds[cite: 1].
+
+---
+
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh4r0ra&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="Harsh's GitHub stats" />
@@ -45,7 +62,7 @@
 
 ---
 
-### 📬 Connect with Me
+### Contact & Links
 
 <div align="left">
   <a href="mailto:harsharora.work@gmail.com" target="_blank">
@@ -54,20 +71,4 @@
   <a href="https://www.linkedin.com/in/harsh-arora-4980b8165/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Harsh4r0ra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-</div>
-
----
-
-### 🧠 Fun Facts
-
-> 💡 I send my code more love than my plants  
-> 🌙 Debugging at 3 AM hits different
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh4r0ra&style=flat-square&color=blue" alt="Profile Views" />
 </div>
